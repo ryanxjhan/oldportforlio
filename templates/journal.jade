@@ -1,0 +1,27 @@
+doctype html
+
+html
+  head
+    if(title)
+      title S. C. Young - #{title}
+    else
+      title S. C. Young
+
+    include includes/css.jade
+    include includes/analytics.jade
+
+  body
+    include includes/sidebar.jade
+    #content
+      h1 Journal
+      for entry in journal
+        if(entry.redirect)
+          h2
+            a(href='#{entry.redirect}') #{entry.title}
+        else
+          h2
+            a(href='/#{entry.path}') #{entry.title}
+        .subtitle #{entry.prettydate}
+
+
+
