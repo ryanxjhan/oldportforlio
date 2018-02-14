@@ -8,8 +8,7 @@
 
 An individual with an intelligence quotient of 125, who has demonstrated talents on multiple fields from music to science. Constantly reflects on self and always stays humble to learn from everyone. Seeking an apprenticeship in the data science industry to build upon a solid scientific foundation and start a career as a data scientist. Seeing oneself in five to ten years as a fully-qualified and experienced artificial intelligence engineer, with the longer-term aspiration of becoming one of the leading experts in the field. 
 
-### Resume Request
-[Email](mailto:ryan.han@uwaterloo.ca)
+[Request a Resume](mailto:ryan.han@uwaterloo.ca)
 
 ### Contact
 
