@@ -23,3 +23,5 @@ An individual with an intelligence quotient of 125, who has demonstrated talent 
 ### Last Updated
 
 2O18-2-14 Wed 3:23PM
+
+Links may not work on Mobile :(
