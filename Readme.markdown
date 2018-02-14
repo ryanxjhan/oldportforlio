@@ -1,6 +1,7 @@
 # Ryan Han
 Data Science and Cognitive Science Undergraduate
-[My LinkedIn](https://www.linkedin.com/in/ryanxjhan/)
+
+Here is [My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
 
 **Copyright** (C) Shane Creighton-Young 2018
 
