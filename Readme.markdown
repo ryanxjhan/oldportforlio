@@ -1,9 +1,7 @@
-# S. C. Young
-[Source code](http://github.com/srcreigh/srcreigh.github.io/tree/source) 
-and [current build](http://github.com/srcreigh/srcreigh.github.io/tree/master)
-for my website and its articles.
+# Ryan Han
+Data Science and Cognitive Science Undergraduate
 
-**Copyright** (C) Shane Creighton-Young 2016
+**Copyright** (C) Shane Creighton-Young 2018
 
 ### Setup instructions
 
