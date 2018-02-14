@@ -6,7 +6,7 @@
 
 ### Summary
 
-An individual with an intelligence quotient of around 125, who has demostrated talents on multiple fields from music to logic. Constantly reflects on self and stays humble to learn from everyone. Seeking data science related internships.
+An individual with an intelligence quotient of 125, who has demonstrated talents on multiple fields from music to science. Constantly reflects on self and always stays humble to learn from everyone. Seeking an apprenticeship in the data science industry to build upon a solid scientific foundation and start a career as a data scientist. Seeing oneself in five to ten years as a fully-qualified and experienced artificial intelligence engineer, with the longer-term aspiration of becoming one of the leading experts in the field. 
 
 
 ### Contact
