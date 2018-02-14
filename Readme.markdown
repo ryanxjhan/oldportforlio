@@ -1,15 +1,16 @@
 # Ryan Han
-Data Science and Cognitive Science Undergraduate
 
-**Data Scientist** @Tabnex
+**Data Science and Cognitive Science Undergraduate**
 
-Here is [My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
+**Data Scientist** @[Tabnex](tabnex.com)
 
 ### Summary
-
+ 
 
 ### Resume
 
 
 ### Contact
+
+[My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
 
