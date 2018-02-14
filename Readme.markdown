@@ -1,32 +1,15 @@
 # Ryan Han
 Data Science and Cognitive Science Undergraduate
 
-Here is [My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
-
 **Data Scientist** @Tabnex
 
-### Setup instructions
+Here is [My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
 
-Install npm. Clone the repo. Then:
+### Summary
 
-```bash
-# install dependencies
-npm install
 
-# build the website locally
-npm run build
+### Resume
 
-# deploy to github
-npm run deploy
-```
 
-### Testing locally
-The [http-server](https://www.npmjs.com/package/http-server) npm package is a
-_zero-configuration_ command line server. To use it:
+### Contact
 
-```bash
-npm install -g http-server
-
-cd $PATH_TO_REPO_ROOT
-http-server build/
-```
