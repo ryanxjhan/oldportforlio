@@ -4,8 +4,6 @@
 
 **Data Scientist** @[Tabnex](https://tabnex.com/)
 
-**Looking for Summer Internship**
-
 ### Summary
  
 
