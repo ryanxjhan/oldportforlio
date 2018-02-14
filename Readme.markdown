@@ -5,7 +5,8 @@
 **Data Scientist** @[Tabnex](https://tabnex.com/)
 
 ### Summary
- 
+
+An individual with an intelligence quotient of around 125, who has demostrated talents on multiple fields from music to logic. Constantly reflect on self and stay humble to learn from everyone. Has great respect for experts in fields such as economics and psychology. 
 
 ### Resume
 
