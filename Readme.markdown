@@ -3,7 +3,7 @@ Data Science and Cognitive Science Undergraduate
 
 Here is [My LinkedIn](https://www.linkedin.com/in/ryanxjhan/) :)
 
-**Copyright** (C) Shane Creighton-Young 2018
+**Data Scientist** @Tabnex
 
 ### Setup instructions
 
