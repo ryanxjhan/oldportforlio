@@ -1,4 +1,0 @@
----
-template: essays.jade
----
-
