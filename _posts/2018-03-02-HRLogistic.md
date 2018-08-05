@@ -1,5 +1,5 @@
 ---
 layout: mypost
-title: Assess Employee Loyalty (Logistic Regression)
+title: Assess Employee Loyalty
 categories: [Logistic Regression]
 ---
