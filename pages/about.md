@@ -3,7 +3,7 @@ layout: mypost
 title: About Me
 ---
 
-## I am...
+# I am...
 
  * Undergraduate at [University of Waterloo](https://uwaterloo.ca)
  * Data Scientist
@@ -12,7 +12,7 @@ title: About Me
  * Expert in First Aid
  
  
- ## I know...
+# I know...
 
  * HTML & CSS
  * Javascript
@@ -29,7 +29,7 @@ title: About Me
  * Cognitive Science
  * Mandarin & Japanese 
 
-## Social Media
+# Social Media
 
 [LinkedIn](https://www.linkedin.com/in/ryanxjhan/)
 
