@@ -1,5 +1,5 @@
 ---
 layout: mypost
 title: Use KNN to Predict Survival on Titanic 
-categories: [Machine Learning]
+categories: [KNN]
 ---
