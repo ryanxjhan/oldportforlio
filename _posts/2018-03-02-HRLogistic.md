@@ -1,5 +1,5 @@
 ---
 layout: mypost
-title: Use Logistic Regression to Predict Whether Employee Leave or Not
+title: Assess Employee Loyalty (Logistic Regression)
 categories: [Machine Learning]
 ---

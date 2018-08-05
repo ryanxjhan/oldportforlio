@@ -1,5 +1,5 @@
 ---
 layout: mypost
-title: Use Logistic Regression to Predict Survival on Titanic
+title: Predict Survival on Titanic (Logistic Regression)
 categories: [Machine Learning]
 ---
