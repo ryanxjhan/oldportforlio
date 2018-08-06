@@ -56,3 +56,12 @@ For example, [1, 3, 3, 2, 5] -> [1, 3, 2, 2, 5] -> [1, 3, 2, 5, 5]
 ### 8. Reverse Words in a String
 
 `' '.join(reversed(str.strip().split()))`
+
+### 9. Insert Node in Sorted Linked List
+
+**Notice**
+
+1. make a dummy linked list and add 0 in the front to make sure you make the cut one node before
+2. use next property to make a node with the wanted value
+3. use next property to link two together
+4. return dummy.next
