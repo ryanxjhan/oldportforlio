@@ -3,16 +3,11 @@ layout: mypost
 title: About Me
 ---
 
-# I am...
+### I am...
 
- * Undergraduate at [University of Waterloo](https://uwaterloo.ca)
- * Data Scientist
- * Accordionist
- * President's Scholarship Recipient
- * Expert in First Aid
+An undergraduate at [University of Waterloo](https://uwaterloo.ca) and a data scientist-ish. 
  
- 
-# I know...
+### I know...
 
 |General             |Languages |Tools     |Hobbies|
 |:-:                 |:-:       |:-:       |:-:|
@@ -25,9 +20,11 @@ title: About Me
 |Cognitive Psychology 🧠|JavaScript||Video Editing|
 
 
-# Social Media
+### Social Media
 
 [LinkedIn](https://www.linkedin.com/in/ryanxjhan/)
 
 [Github](https://github.com/ryanxjhan)
+
+[Kaggle](https://www.kaggle.com/ryanxjhan)
 
