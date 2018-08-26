@@ -14,20 +14,16 @@ title: About Me
  
 # I know...
 
- * HTML & CSS
- * Javascript
- * Python
- * C & C++
- * Scheme
- * Object-oriented Programming
- * Algorithms and Data Structure
- * Machine Learning Models
- * Deep Learning Models
- * Web Crawler
- * MySQL 
- * Psychology
- * Cognitive Science
- * Mandarin & Japanese 
+|General             |Languages |Tools     |Hobbies|
+|:-:                 |:-:       |:-:       |:-:|
+|OOP                 |Python    |TensorFlow|Accordion
+|Statistics          |Java      |Spark     |🏸️|
+|Machine Learning    |SQL Query |Hadoop    |
+|Deep Learning       |C++       |Tableau   |
+|Algorithms          |C         |MySQL     |
+|Data Structures     |Scheme    |
+|Cognitive Psychology|JavaScript|
+
 
 # Social Media
 
