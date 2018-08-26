@@ -16,13 +16,13 @@ title: About Me
 
 |General             |Languages |Tools     |Hobbies|
 |:-:                 |:-:       |:-:       |:-:|
-|OOP                 |Python    |TensorFlow|Accordion
-|Statistics          |Java      |Spark     |🏸️|
-|Machine Learning    |SQL Query |Hadoop    |
-|Deep Learning       |C++       |Tableau   |
-|Algorithms          |C         |MySQL     |
+|OOP💻                |Python🐍    |TensorFlow|Accordion
+|Statistics          |Java      |Spark🌟    |🏸️|
+|Machine Learning🤖️    |SQL Query |Hadoop    |📖|
+|Deep Learning🤖️🤖️🤖️       |C++👨       |Tableau   |
+|Algorithms          |C👦         |MySQL     |
 |Data Structures     |Scheme    |
-|Cognitive Psychology|JavaScript|
+|Cognitive Psychology 🧠|JavaScript|
 
 
 # Social Media
