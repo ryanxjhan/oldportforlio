@@ -21,7 +21,7 @@ title: About Me
 |Machine Learning🤖️    |SQL Query |Hadoop    |Reading 📖|
 |Deep Learning🤖️🤖️🤖️       |C++👨       |Tableau   |First Aid❤️|
 |Algorithms          |C👦         |MySQL     | VLOG📹|
-|Data Structures     |Scheme    |　|🏓️|
+|Data Structures     |Scheme    |　|🐱🐶🐰|
 |Cognitive Psychology 🧠|JavaScript||Video Editing|
 
 
