@@ -1,4 +1,8 @@
-
+---
+layout: mypost
+title: Introduction to Matplotlib
+categories: [Matplotlib]
+---
 
 ```python
 %matplotlib inline
