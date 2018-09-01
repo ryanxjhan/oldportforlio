@@ -22,9 +22,5 @@ An undergraduate at [University of Waterloo](https://uwaterloo.ca) and a data sc
 
 ### Social Media
 
-[LinkedIn](https://www.linkedin.com/in/ryanxjhan/)
-
-[Github](https://github.com/ryanxjhan)
-
-[Kaggle](https://www.kaggle.com/ryanxjhan)
+[LinkedIn](https://www.linkedin.com/in/ryanxjhan/) [Github](https://github.com/ryanxjhan) [Kaggle](https://www.kaggle.com/ryanxjhan)
 
