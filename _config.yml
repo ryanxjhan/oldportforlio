@@ -5,6 +5,5 @@ description: Personal Website
 keywords: Ryan Han,Portfolio,Python,Data Science,Machine Learning,Deap Learning,AI,Cognitive Science
 author: Ryan Han
 permalink: /posts/:year/:month/:day/:title.html
-markdown: redcarpet
 coderay:
   coderay_tab_width: 4
