@@ -6,12 +6,8 @@ description: Personal Website
 keywords: Ryan Han,Portfolio,Python,Data Science,Machine Learning,Deap Learning,AI,Cognitive Science
 author: Ryan Han
 
-# "","/blog"
-context: ""
-"siteMapPrefix": "http://blog.tmaize.net"
-
-## 文章url前缀 context/自定义，下面的context为''
 permalink: /posts/:year/:month/:day/:title.html
+markdown: redcarpet
 
 coderay:
   coderay_tab_width: 4
