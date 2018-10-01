@@ -19,8 +19,8 @@ An undergraduate at [University of Waterloo](https://uwaterloo.ca) and a data sc
 |Data Structures     |Scheme    |　|🐱🐶🐰|
 |Cognitive Psychology 🧠|JavaScript||Video Editing|
 
-
 ### Social Media
 
 [LinkedIn](https://www.linkedin.com/in/ryanxjhan/) [Github](https://github.com/ryanxjhan) [Kaggle](https://www.kaggle.com/ryanxjhan)
-
+[Plum](https://app.plum.io/profile/ryanhan)
+[OP.GG](http://na.op.gg/summoner/userName=SKT+T1+Ryan)
