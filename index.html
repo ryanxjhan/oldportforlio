@@ -3,15 +3,6 @@ layout: default
 css: [blog.css]
 js: [blog.js]
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128886754-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-128886754-1');
-</script>
 <div class="main animation-fadeUp">
 	{% for post in site.posts  %}
 		{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

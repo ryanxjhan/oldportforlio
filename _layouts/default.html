@@ -21,7 +21,10 @@
 		<link rel="shortcut icon" href="{{site.context}}/static/img/favicon.ico" type="image/x-icon"/>
 		<title>{% if page.title %}{{ page.title }}-{{ site.title }} {% else %}{{ site.title }}{% endif %}</title>
 	</head>
-<body>
-{% include header.html %}
-    {{ content }}
-{% include footer.html %}
+	<body>
+		{% include header.html %}
+    	{{ content }}
+		{% include footer.html %}
+	{% include analytics.html %}
+	</body>
+</html>
