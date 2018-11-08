@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Cheatsheets
+title: Data Science Cheatsheets
 categories: [Utility]
 ---
 
