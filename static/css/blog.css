@@ -7,8 +7,12 @@ body {
     font-family: Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
     font-size: 12px;
     line-height: 1.8;
+<<<<<<< HEAD
     color: #f9f9f9;
     background-color: #313131
+=======
+    color: #313131;
+>>>>>>> parent of 9312718... update
 }
 
 /* 
