@@ -18,7 +18,16 @@
 		<script type="text/javascript" src="{{site.context}}/static/js/blog.js"></script>
 		<title>{{ page.title }}-{{ site.title }}</title>
 	</head>
-	<!-- Link Gitalk -->
+<body>
+{% include header.html %}
+	<div class="main animation-fadeUp post">
+		{% if page.title %}
+		<h1 class="title">{{ page.title }}</h1>
+		{% endif %}
+		<div class="content">{{ content }}</div>
+	</div>
+
+		<!-- Link Gitalk -->
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
 <div id="gitalk-container"></div>     
@@ -34,13 +43,5 @@
 	gitalk.render('gitalk-container');
 </script> 
 <!-- Gitalk end -->
-<body>
-{% include header.html %}
-	<div class="main animation-fadeUp post">
-		{% if page.title %}
-		<h1 class="title">{{ page.title }}</h1>
-		{% endif %}
-		<div class="content">{{ content }}</div>
-	</div>
 {% include footer.html %}
 
