@@ -5,22 +5,9 @@ html, body {
 
 body {
     font-family: Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
-    font-size: 12px;
+    font-size: 15px;
     line-height: 1.8;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: #f9f9f9;
-=======
-    color: #999;
->>>>>>> parent of 45c92f6... update
-=======
-    color: #999;
->>>>>>> parent of 45c92f6... update
-    background-color: #313131
-=======
     color: #313131;
->>>>>>> parent of 9312718... update
 }
 
 /* 
