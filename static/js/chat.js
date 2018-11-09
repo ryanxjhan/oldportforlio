@@ -100,12 +100,8 @@ blog.addLoadEvent(function () {
             alert('Are you sure it is the correct email?')
             return;
         }
-        if (site != '' && (site.length > 80 || !urlCheck.test(site))) {
-            alert('Are you sure it is a site?')
-            return;
-        }
         if (content == '' || content.length > 200) {
-            alert('Please, keep it short.')
+            alert('Either too short or too long...')
             return;
         }
 
