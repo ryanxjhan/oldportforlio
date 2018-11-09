@@ -38,7 +38,7 @@
 	repo: 'ryanxjhan.github.io',
 	owner: 'ryanxjhan',
 	admin: ['ryanxjhan'],
-	id:window.location.pathname,
+	id:decodeURI(window.location.pathname),
 });
 	gitalk.render('gitalk-container');
 </script> 
