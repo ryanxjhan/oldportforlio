@@ -67,7 +67,7 @@ body {
 .bubble {
     z-index: 999;
     padding: 0 !important;
-    color: #313131;
+    color: #f9f9f9;
     font-size: 12px;
     position: absolute;
     animation-duration: 1s;
@@ -94,7 +94,7 @@ body {
 }
 
 a {
-    color: #313131;
+    color: #f9f9f9;
     text-decoration: underline;
 }
 
