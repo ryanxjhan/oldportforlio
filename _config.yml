@@ -8,3 +8,4 @@ Markdown: redcarpet
 permalink: /posts/:year/:month/:day/:title.html
 coderay:
   coderay_tab_width: 4
+theme: jekyll-theme-midnight
