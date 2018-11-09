@@ -4,7 +4,7 @@ title: 7 Interesting Machine Learning Projects
 categories: [Utility]
 ---
 
-###[What is the secret of academic success?](https://www.kaggle.com/hely333/what-is-the-secret-of-academic-success?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes-20181018)
+### [What is the secret of academic success?](https://www.kaggle.com/hely333/what-is-the-secret-of-academic-success?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes-20181018)
 
 There are a lot of beautiful graphs any data scientist would love. matplotlib, seaborn, and plotly are used. 
 
