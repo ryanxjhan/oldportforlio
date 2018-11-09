@@ -1,21 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<!-- Link Gitalk -->
-	<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-	<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-	<div id="gitalk-container"></div>     
-	<script type="text/javascript">
-    	var gitalk = new Gitalk({
-        clientID: 'c1b556f19ed9cbeb13ae',
-        clientSecret: '17f17f12a3969bad09f386b46cd9a2ef2837aaa7',
-        repo: 'https://ryanxjhan.github.io',
-        owner: 'ryanxjhan',
-        admin: ['ryanxjhan'],
-        id:window.location.pathname,
-    });
-    	gitalk.render('gitalk-container');
-	</script> 
-	<!-- Gitalk end -->
 	<script type="text/javascript"
 		src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 	</script>
@@ -44,3 +28,19 @@
 	</div>
 {% include footer.html %}
 
+<!-- Link Gitalk -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     
+<script type="text/javascript">
+	var gitalk = new Gitalk({
+	clientID: 'c1b556f19ed9cbeb13ae',
+	clientSecret: '17f17f12a3969bad09f386b46cd9a2ef2837aaa7',
+	repo: 'https://ryanxjhan.github.io',
+	owner: 'ryanxjhan',
+	admin: ['ryanxjhan'],
+	id:window.location.pathname,
+});
+	gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
