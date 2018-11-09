@@ -19,7 +19,7 @@ blog.addLoadEvent(function () {
             }
         },
         error: function (error) {
-            console.error('查询总条数失败');
+            console.error('Search Comment Count Failed');
         }
     });
 
@@ -43,7 +43,7 @@ blog.addLoadEvent(function () {
                 }
             },
             error: function (error) {
-                console.error('查询评论列表失败')
+                console.error('Search Failed')
             }
         });
     }
@@ -93,23 +93,19 @@ blog.addLoadEvent(function () {
         var content = blog.trim(dom_content.value);
 
         if (name == '' || name.length > 20) {
-            alert('昵称为空或长度大于20！')
-            return;
-        }
-        if (!blog.tmaize && name.toLowerCase().indexOf('tmaize') != -1) {
-            alert('昵称禁止包含TMaize')
+            alert('Name empty or too long...')
             return;
         }
         if (email != '' && (email.length > 50 || !emailCheck.test(email))) {
-            alert('邮箱长度大于50或格式错误！')
+            alert('Are you sure it is the correct email?')
             return;
         }
         if (site != '' && (site.length > 80 || !urlCheck.test(site))) {
-            alert('站点长度大于80或格式错误！')
+            alert('Are you sure it is a site?')
             return;
         }
         if (content == '' || content.length > 200) {
-            alert('内容为空或长度大于200！')
+            alert('Please, keep it short.')
             return;
         }
 
@@ -125,7 +121,7 @@ blog.addLoadEvent(function () {
                 window.location.href = window.location.href;
             },
             error: function (model, error) {
-                alert("提交评论失败");
+                alert("Submit Failed");
             }
         });
     })
