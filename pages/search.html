@@ -10,7 +10,10 @@ js: [blog.js,search.js]
 if (annyang) {
   // Add our commands to annyang
   annyang.addCommands({
-    'shit': function() {window.open("https://www.youtube.com/watch?v=OD3F7J2PeYU")}
+    'shit': function() {
+		window.open("https://www.youtube.com/watch?v=OD3F7J2PeYU");
+		alert('Hello world!');
+		}
   });
 
   // Tell KITT to use annyang
