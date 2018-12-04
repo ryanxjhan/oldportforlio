@@ -8,6 +8,11 @@ if (annyang) {
       window.open("https://www.youtube.com/watch?v=OD3F7J2PeYU");
     }
   });
+  annyang.addCommands({
+    'Open Google': function() {
+      window.open("https://www.google.com");
+    }
+  });
 
   // Tell KITT to use annyang
   SpeechKITT.annyang();
