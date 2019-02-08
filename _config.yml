@@ -3,7 +3,7 @@ title: Ryan Han
 SEOTitle: Machine Learning Journey 
 header-img: img/home-bg.jpg
 email: ryan.han@uwaterloo.ca
-description: "Ryan's Machine Learning Journey | Ryan的机器学习之旅。"
+description: "Ryan's Machine Learning Journey"
 keyword: "Ryan, Ryan Han, Blog, ryanxjhan, Machine Learning, AI, Deep Learning"
 url:               # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -78,7 +78,7 @@ ga_domain: ryanxjhan
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "Future is now."
 sidebar-avatar: /img/avatar-ryan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
